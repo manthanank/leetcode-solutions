@@ -8,3 +8,5 @@
 | Longest Palindromic Substring  | Medium  | [Solution in jS](./Longest%20Palindromic%20Substring/solution.js)  |
 | Reverse Integer  | Medium  | [Solution in jS](./Reverse%20Integer/solution.js)  |
 | String to Integer (atoi)  | Medium  | [Solution in jS](./String%20to%20Integer%20(atoi)/solution.js)  |
+| Palindrome Number  | Easy  | [Solution in jS](./Palindrome%20Number/solution.js)  |
+| Roman to Integer  | Easy  | [Solution in jS](./Roman%20to%20Integer/solution.js)  |
