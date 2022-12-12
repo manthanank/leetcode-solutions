@@ -10,3 +10,4 @@
 | String to Integer (atoi)  | Medium  | [Solution in jS](./String%20to%20Integer%20(atoi)/solution.js)  |
 | Palindrome Number  | Easy  | [Solution in jS](./Palindrome%20Number/solution.js)  |
 | Roman to Integer  | Easy  | [Solution in jS](./Roman%20to%20Integer/solution.js)  |
+| Longest Common Prefix  | Easy  | [Solution in jS](./Longest%20Common%20Prefix/solution.js)  |
