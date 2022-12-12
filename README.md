@@ -11,3 +11,4 @@
 | Palindrome Number  | Easy  | [Solution in jS](./Palindrome%20Number/solution.js)  |
 | Roman to Integer  | Easy  | [Solution in jS](./Roman%20to%20Integer/solution.js)  |
 | Longest Common Prefix  | Easy  | [Solution in jS](./Longest%20Common%20Prefix/solution.js)  |
+| Remove Nth Node From End of List  | Medium  | [Solution in jS](./Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)  |
