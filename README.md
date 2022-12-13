@@ -12,4 +12,5 @@
 | Roman to Integer  | Easy  | [Solution in js](./Roman%20to%20Integer/solution.js)  |
 | Longest Common Prefix  | Easy  | [Solution in js](./Longest%20Common%20Prefix/solution.js)  |
 | Remove Nth Node From End of List  | Medium  | [Solution in js](./Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)  |
-| Valid Parentheses  | Easy  | [Solution in js](./Valid%20Parentheses/)  |
+| Valid Parentheses  | Easy  | [Solution in js](./Valid%20Parentheses/solution.js)  |
+| Merge Two Sorted Lists  | Easy  | [Solution in js](./Merge%20Two%20Sorted%20Lists/solution.js)  |
