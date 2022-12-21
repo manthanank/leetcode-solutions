@@ -17,3 +17,4 @@
 | Remove Duplicates from Sorted Array  | Easy  | [Solution in js](./Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)  |
 | Remove Element  | Easy  | [Solution in js](./Remove%20Element/solution.js)  |
 | Find the Index of the First Occurrence in a String  | Medium  | [Solution in js](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/solution.js)  |
+| Search Insert Position  | Easy  | [Solution in js](./Search%20Insert%20Position/solution.js)  |
