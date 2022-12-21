@@ -18,3 +18,4 @@
 | Remove Element  | Easy  | [Solution in js](./Remove%20Element/solution.js)  |
 | Find the Index of the First Occurrence in a String  | Medium  | [Solution in js](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/solution.js)  |
 | Search Insert Position  | Easy  | [Solution in js](./Search%20Insert%20Position/solution.js)  |
+| Valid Sudoku  | Easy  | [Solution in js](./Valid%20Sudoku/solution.js)  |
