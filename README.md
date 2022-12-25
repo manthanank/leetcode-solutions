@@ -19,3 +19,7 @@
 | Find the Index of the First Occurrence in a String  | Medium  | [Solution in js](./Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/solution.js)  |
 | Search Insert Position  | Easy  | [Solution in js](./Search%20Insert%20Position/solution.js)  |
 | Valid Sudoku  | Easy  | [Solution in js](./Valid%20Sudoku/solution.js)  |
+| Shortest Distance to Target String in a Circular Array  | Easy  | [Solution in js](./Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/solution.js)  |
+| Take K of Each Character From Left and Right  | Medium  | [Solution in js](./Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/solution.js)  |
+| Maximum Tastiness of Candy Basket  | Medium  | [Solution in js](./Maximum%20Tastiness%20of%20Candy%20Basket/solution.js)  |
+| Number of Great Partitions  | Hard  | [Solution in js](./Number%20of%20Great%20Partitions/solution.js)  |
