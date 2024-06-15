@@ -2,17 +2,40 @@
 
 This repository contains my solutions to various problems on Leetcode. I have solved these problems in Python and Java. I have also provided the time and space complexity of each solution.
 
-## Easy
+## Installation
 
-- [Two Sum](src/content/docs/easy/two-sum.md)
+1. Clone the repository
 
-## Medium
+    ```bash
+    git clone https://github.com/manthanank/leetcode-solutions.git
+    ```
 
-- [Add Two Numbers](src/content/docs/medium/add-two-numbers.md)
+2. Change the directory
 
-## Hard
+    ```bash
+    cd leetcode-solutions
+    ```
 
-- [N-Queens](src/content/docs/hard/n-queens.md)
+3. Install the dependencies
+
+    ```bash
+    pnpm install
+    ```
+
+4. Start the development server
+
+    ```bash
+    pnpm dev
+    ```
+
+## Documentation
+
+- Easy
+  - [Two Sum](src/content/docs/easy/two-sum.md)
+- Medium
+  - [Add Two Numbers](src/content/docs/medium/add-two-numbers.md)
+- Hard
+  - [N-Queens](src/content/docs/hard/n-queens.md)
 
 ## License
 
