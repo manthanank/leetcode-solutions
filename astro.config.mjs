@@ -11,6 +11,12 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Introduction',
+					items: [
+						{ label: 'Getting Started', link: '/introduction/introduction' },
+					]
+				},
+				{
 					label: 'Easy',
 					items: [
 						{ label: 'Two Sum', link: '/easy/two-sum/' },
